@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Controle de Estoque",
+    "slug": "controle_de_estoque",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#D3A3D8"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android":{
+      "package": "com.william_r_silva.controle_de_estoque",
+      "versionCode": 1
+    }
+  }
+}
